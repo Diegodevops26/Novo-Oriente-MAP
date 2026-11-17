@@ -1,0 +1,6 @@
+{
+  "name": "Novo Oriente de Minas — Mapa Interativo",
+  "description": "Mapa interativo de Novo Oriente de Minas (MG) destacando pontos turísticos, cachoeiras, praças, igrejas históricas e áreas comerciais.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
